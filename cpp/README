@@ -1,0 +1,6 @@
+--------------------
+ how to comple cpp ? 
+--------------------
+
+clang++ filename.cpp -o filename
+
